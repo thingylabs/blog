@@ -1,7 +1,7 @@
 🔬 **thingy**labs blog
 
-- 191213 "[MEIN WEG ZU THINGYLABS](https://ezim54.github.io/MyBlog/)" (de) [`@ezim54`](https://github.com/ezim54)
-- 191108 "[Something new](https://viellieber.github.io/)" (de) [`@viellieber`](https://github.com/viellieber)
-- 191028 "[A new definition of working space - Part II](https://local.google.com/place?id=8839781175277333299&use=posts&lpsid=2722428866463728647)" (en) [`@siflora`](https://github.com/siflora)
-- 191028 "[A new definition of working space - Part I](https://local.google.com/place?id=8839781175277333299&use=posts&lpsid=1486806454787695541)" (en) [`@siflora`](https://github.com/siflora)
-- 191014 "[New life phase at Thingylabs](https://local.google.com/place?id=8839781175277333299&use=posts&lpsid=3523177937278848535)" (en, [cn](https://local.google.com/place?id=8839781175277333299&use=posts&lpsid=7474812838105062742)) [`@siflora`](https://github.com/siflora)
+- 200129 de: "[Von Medikamenten zu HTML und LED-Lampen](https://blog.thingylabs.io/von-medikamenten-zu-html-und-led-lampen)" - [Lisa](https://github.com/B-Lisa)
+- 191213 de: "[MEIN WEG ZU THINGYLABS](https://blog.thingylabs.io/mein-weg-zu-thingylabs)" - [Lisa](https://github.com/B-Lisa)
+- 191108 de: "[Etwas Neues](https://blog.thingylabs.io/etwas-neues)" - [Nick](https://github.com/viellieber)
+- 191028 en: "[A new definition of working space](https://blog.thingylabs.io/a-new-definition-of-working-space)" - [Flora](https://github.com/siflora)
+- 191014 en: "[New life phase at Thingylabs](https://blog.thingylabs.io/new-life-phase-at-thingylabs)" ([cn](https://local.google.com/place?id=8839781175277333299&use=posts&lpsid=7474812838105062742)) - [Flora](https://github.com/siflora)
