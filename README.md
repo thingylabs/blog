@@ -1,5 +1,6 @@
 > [🔬 **Thingy**labs Blog](https://blog.thingylabs.io/)
 
+- 200420 de: "[Create GANTT charts in Google Sheets](https://blog.thingylabs.io/create-gantt-charts-in-google-sheets)" by [Sebastian](https://github.com/sebastianwachter)
 - 200129 de: "[Von Medikamenten zu HTML und LED-Lampen](https://blog.thingylabs.io/von-medikamenten-zu-html-und-led-lampen)" by [Lisa](https://github.com/B-Lisa)
 - 191213 de: "[MEIN WEG ZU THINGYLABS](https://blog.thingylabs.io/mein-weg-zu-thingylabs)" by [Lisa](https://github.com/B-Lisa)
 - 191108 de: "[Etwas Neues](https://blog.thingylabs.io/etwas-neues)" by [Nick](https://github.com/viellieber)
